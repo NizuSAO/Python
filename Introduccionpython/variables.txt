@@ -1,0 +1,19 @@
+Que es una variable?
+
+Una variable es un espacio en la memoria del ordenador donde se almacenara un valor que podra cambiar durante la ejecución del programa.
+
+Es como una caja yo le pongo a esa caja A y le guardo un numero 5 cuando llame a esa variable o caja va a tener el numero 5
+
+Y a otra caja le pongo B y le guardo el numero 7
+
+Cuando sume caja A con caja B la suma va a ser 12. 
+
+Entonces la variable es una forma de almacenar un valor en un espacio de memoria.
+
+ejemplo:
+cajaA = 5
+cajaB = 7
+
+cajaC = cajaA + cajaB
+
+print(cajaC)
