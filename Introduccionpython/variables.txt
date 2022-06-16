@@ -17,3 +17,26 @@ cajaB = 7
 cajaC = cajaA + cajaB
 
 print(cajaC)
+
+Python al ser amigable, para imprimir algo en consola con el hecho de escribir la funcion print ya te lo imprime.
+
+Funcion predifinida print:
+
+Print("hello world)
+
+En java:
+System.out.println("hello world")
+
+Para python todas las variables que definamos son objetos
+
+Funcion predefinida:
+Type()
+Es devolvernos el tipo de dato o el tipo de variable. A traves de la palabra class
+
+Nombre = 5
+Type(nombre) enter*
+Class 'int'
+
+Como el valor de la variable nombre es 5 entonces la respuesta de class es int
+Osea el valor es de tipo entero.
+
