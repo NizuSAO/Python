@@ -1,0 +1,45 @@
+Def mensaje():
+        Print("hola somos python")
+        Print(tu name)
+ Mensaje()
+
+Def mensaje():
+Declaracion
+
+Todos los print el cuerpo de la funcion
+
+Mensaje()
+Llamada a la funcion.
+
+Las funciones pueden o no tener parametros
+En este caso le decimos a la funcion que tiene 2 variables.
+
+Def suma(num1, num2)
+
+        Print(num1+num2)
+
+Suma(5,7)
+
+12
+
+
+
+El numero 5 se almacena en num 1 y el 7 en num 2 luego se hace la suma y te da un resultado.
+
+Las funciones te pueden retornar valor o no
+
+Las funciones que retornan es como una maquina dispensadora vos introduccis un numero y en funcion de eso te devuelve papas o lo que quieras
+
+Def suma(num1, num2)
+
+       Resultado= num1+ num2
+
+        Return resultado
+
+Papas = suma(5,8)
+Pepsi = suma(7,8)
+
+Print(papas)
+Print(pepsi)
+
+Osea el resultado se almacena en base a los numeros. Almacenas la funcion en una variable y cuando quieras que se muestre simplemente pones el nombre de la variable.
