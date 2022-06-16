@@ -7,6 +7,7 @@ Es como si la variable fuera un cajon y una lista fuera un armario.
 Pueden guardar diferente tipo de valores.
 
 
+
 Nombrelista=[elem1, elem2, elem3]
 
 Pero no hay que confundir el numero elementos con su indice o posicion.
