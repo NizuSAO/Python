@@ -1,0 +1,31 @@
+Las funciones son bloques de codigo.
+Que los definis una vez y lo podes ejecutar cuantas veces sean necesarias.
+
+Las funciones se denominan metodos cuando estan dentro de una clase.
+
+Las funciones pueden o no devolver valores
+
+Las funciones pueden tener parametros
+
+Sirve para la reutalizacion de codigo.
+
+Def nombre_funcion():
+      Instrucciones de la funcion
+      Return(opcional)
+
+Tenemos a def como palabra reservada
+Y el nombre de la funcion cuando yo en el codigo diga.
+
+Objeto.funcion()
+
+Se va a ejecutar la linea de codigo que escribimos sin la necesidad de estar escribiendo el mismo codigo una y otra vez.
+
+Las funciones tienen parametros que se definen en los parentesis.
+
+Def nombre_funcion(parametros):
+        Instrucciones de la funcion
+        Return(opcional)
+
+Si la funcion tiene parametros hay que escirbir la funcion tal cual para que se ejecute.
+
+Nombre_funcion(parametros)
