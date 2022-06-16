@@ -1,0 +1,39 @@
+operadores:
+
+Aritméticos:
+Suma +
+Resta -
+Multiplicación *
+Division /
+Modulo %
+Exponente **
+Division entera //
+
+Comparación:
+Igual que: ==
+Diferente que: !=
+Mayor que: >
+Menor que: <
+Mayor o igual que: >=
+Mayor o igual que: <=
+
+Lógicos para poder evaluar mas de una condición a la vez:
+And 
+Or
+Not
+
+Asignacion
+Igual: =
+Incremento: +=
+Decremento: -=
+*=
+/=
+%=
+**=
+//=
+
+Especiales:
+Is 
+Is not
+In
+Not in
