@@ -1,0 +1,18 @@
+Python tiene Simplicidad
+
+Tipos de datos:
+Numericos
+Textos
+Booleanos
+
+Numericos:
+Enteros(int)
+Flotante(float)
+Complejos
+
+textos(str)
+
+Booleanos:
+True false
+
+Si bien manejamos estos tipos de datos no hace falta definirlos porque python es muy amigable.
