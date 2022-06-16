@@ -16,7 +16,12 @@ Def nombre_funcion():
 Tenemos a def como palabra reservada
 Y el nombre de la funcion cuando yo en el codigo diga.
 
-Objeto.funcion()
+Def es una definicion de funcion usada para crear objectos funciones definidas por el usuario.
+
+Def enlaza el nombre de la funcion en el namespace local actual a un objeto.
+
+
+funcion()
 
 Se va a ejecutar la linea de codigo que escribimos sin la necesidad de estar escribiendo el mismo codigo una y otra vez.
 
@@ -29,3 +34,5 @@ Def nombre_funcion(parametros):
 Si la funcion tiene parametros hay que escirbir la funcion tal cual para que se ejecute.
 
 Nombre_funcion(parametros)
+
+
