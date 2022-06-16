@@ -1,0 +1,18 @@
+Las listas en python son como los array en otros lenguajes.
+
+Para que sirven bueno vimos que una variable que hace almacena un valor. Pero las listas te permiten almacenar una gran cantidad de valores, funcionan como una unidad
+
+Es como si la variable fuera un cajon y una lista fuera un armario.
+
+Pueden guardar diferente tipo de valores.
+
+
+Nombrelista=[elem1, elem2, elem3]
+
+Pero no hay que confundir el numero elementos con su indice o posicion.
+
+Porque en las lista la primera posicion es 0
+
+El elem 1 esta en la posicion 0
+El elem 2 esta en la posicion 1
+El elem 3 esta en la posicion 2
